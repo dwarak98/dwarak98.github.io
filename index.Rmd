@@ -6,22 +6,44 @@ title: "Dwarak Atlantis"
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
+# Specifications
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+#### General Specifications
+1. All RCC works will be completed as per structural consultant drawings
+2. Basement height not exceeding 3-6 inchs from the natural ground level, filled with good quality pit sand with proper consolidation.
+3. Proper Pest Control treatment will be carried out at different stages as per procedure.
+4. All outerwalls and innerwalls will be of 9 inches and 4.5 inches thick  respectively. The walls are built of well burnt chamber red bricks.
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+#### Electrical Works
+1. All elctrical works will be carried out as per electrical drawings issued by Architects. 
+2. Complete wires are of Kundan/Malla/ or of equivalent make.
+3. Switches and EB Board are of legrand make.
 
-```{r cars}
-summary(cars)
-```
+#### Joineries
+1. For the main door both for frames and shutters burma teak wood will be used with panelled shutters.
+2. For all other doors first quality Indian Teak wood will be used for frames and for bedroom door shutters skin door will be used and for toilers and service areas water proof flush doors will be used.
+3. UPSC windows either opening or sliding type will be provided as per Architect suggestion.
+4. All fittings for Main door is of Brass and rest of the doors are of SS type.
 
-## Including Plots
+#### Flooring
+1. For general flooring 2'-0"x2'-0" vitrified tiles will be provided basic rate not exceeding Rs.60 /= per Sqft including GST.
+2. For bedroom and kitchen wall tiles will be provided for 7'-0" and 2'-0" height respectively and the basic rate of which will not exceed Rs.60 /= per Sqft.
+3. Stair Case steps and landing area 20mm granite will be provided and SS Handrail of 304 grade will be provided.
 
-You can also embed plots, for example:
+#### Painting
+1. Mealmine polish will be provided for main door and for other doots and shutter enamel will be provided over a coat of primer.
+2. For inner walls, Birla Cement based putty will be provided over which 2 coats of Royale emulsion paint will be provided.
+3. For all exterior walls 2 coats of apex emulsion will be provided over a coat of primer.
+4. RCC over head tank will be provided with adequate capacity.
+5. Underground water storage sump will be provided with capacity not less than 16,000 litres. 
+6. Rubber mould paver blocks will be provided for all set back areas and car parking areas.
+7. Polished black granite will be provided for cooking platform with Caysil sink of adequate size.
+8. RCC lofts will be provided for storage in all bedrooms and kitchen.
+9. Cuddapati Racks will be provided for all wardrobes and shelves.
+10. Weathering course with conventional method will be provided over which pressed tiles 9"x9" size will be laid.
+11. MS Safety grills will be provided for all main doors.
+12. Parapet wall with 9" thick will be provided for 3'-3" height.
+13. Power Back up for lift and all common area lights will be provided.
+14. CCTV camera for Security pupose will be provided int he car parking area along with video door phone.
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+ 
