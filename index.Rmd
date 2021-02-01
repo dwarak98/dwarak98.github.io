@@ -1,13 +1,11 @@
 ---
-title: "Dwarak Atlantis"
-output: pdf_document
+title: "Specifications"
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# Specifications
 
 #### General Specifications
 1. All RCC works will be completed as per structural consultant drawings
