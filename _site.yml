@@ -4,5 +4,6 @@ navbar:
   title: "Dwarak Atlantis"
   href: index.html
 output:
-  html_document:
-  theme: cosmo
+  prettydoc::html_pretty:
+    theme: hpstr
+    highlight: github

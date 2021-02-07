@@ -28,8 +28,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 #### Flooring
 
-
-
 1. For general flooring $\ft2\times\ft2$ vitrified tiles will be provided basic rate not exceeding Rs.60 /= per Sqft including GST.
 2. For bedroom and kitchen wall tiles will be provided for $\ft7-\inch0$ and $\ft2-\inch0$ height respectively and the basic rate of which will not exceed Rs.60 /= per Sqft.
 3. Stair Case steps and landing area 20mm granite will be provided and SS Handrail of 304 grade will be provided.
@@ -50,4 +48,3 @@ knitr::opts_chunk$set(echo = TRUE)
 13. Power Back up for lift and all common area lights will be provided.
 14. CCTV camera for Security purpose will be provided int he car parking area along with video door phone.
 
- 
